@@ -1,0 +1,19 @@
+---
+title: " Bartels Replication"
+author: Natalie Daniels
+format: html
+---
+
+What follows is the replication of Bartels, Figure 1 and Figure 2 with the 2006-2024 CES dataset.
+
+## Figure 1
+
+![Distribution of Party Identification, CES 2006-2024](Bartels1.pdf){fig-align="center" width="70%"}
+
+## Figure 2
+
+![Party identification among voters and nonvoters, CES 2006-2024](bartels2.pdf){fig-align="center" width="70%"}
+
+## Write-Up
+
+Although this assignment was very similar to the previous replication, I still had minor issues while trying to get the graph to be perfect. The hardest part of these assignments for me is always just starting to gather my variables and understanding the path to get what I need in terms of which commands to use lie mutate etc. 
